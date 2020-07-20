@@ -13,7 +13,7 @@ pip3 install json
 pip3 install base64
 Clone git repository to RPi:
 
-git clone https://github.com/joshwh11/pi_project
+git clone https://github.com/clrose503/RaspberryPi
 
 Set up breadboard with Raspberry Pi. Requires:
 
@@ -27,9 +27,9 @@ Breadboard
 
 (Super rough diagrams for reference are in the "schematic" folder)
 
-Test out pins by running the ledtest.py file after changing directory to the pi_project folder:
+Test out pins by running the ledtest.py file after changing directory to the RaspberryPi folder:
 
-cd pi_project
+cd RaspberryPi
 
 python3 ledtest.py
 
